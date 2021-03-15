@@ -1,20 +1,63 @@
-# Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
-
 # Site
-title: Hexo
-subtitle: ""
-description: ""
-keywords:
-author: John Doe
-language: en
-timezone: ""
+# 博客的标题
+title: 袁苏东
+
+# banner显示的子标题
+subtitle: 回首山河已是秋
+
+# banner显示的简短介绍
+subtitle_desc: 日常学习与兴趣交流
+
+# seo关键字
+keywords: yuansudong, yuansudong blog, 技术场景, seo, go, golang, 全栈开发, node.js, javascript
+
+# 博客介绍（同时用于seo）
+description: 职场经验总结
+
+# 个人介绍
+introduction: 不思量，自难忘！
+
+# 博客的favicon图标，支持本地及在线两种方式，本地请将图标放置于 themes/hexo-theme-skapp/source/img 目录下
+favicon_ico: /favicon.ico
+
+# 博客的左上角logo图标，支持本地及在线两种方式
+logo: /img/logo.png
+
+# 头像/二维码（用于显示在底部）二选一
+#avatar: /img/logo.png
+qrcode: /img/qrcode.png
+
+# 文章的默认封面
+default_cover: /img/article_default.jpg
+
+# header 的背景图
+header_cover: /img/bg.jpg
+
+# 404 页面的背景图
+error_page_bg: /img/404.jpg
+
+# 页面加载loading图标
+loader_img: /img/loader.gif
+
+# 站长信息
+author:
+  name: yuansudong
+  link: https://github.com/yuansudong
+# 用于页面 footer 的站长信息
+about:
+  info: 分享日常学习、生活及工作的一些心得总结。
+  address: ChengDu, SiChuan Province, China
+  email: 1145919989@qq.com
+
+mermaid:
+  enable: true
+  # Available themes: default | dark | forest | neutral
+  theme: forest
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:day/:title/index.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -29,6 +72,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+language: zh-cn
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -90,14 +134,14 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
-exclude:
-ignore:
+# include:
+# exclude:
+# ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-skapp
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
