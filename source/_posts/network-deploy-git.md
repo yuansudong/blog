@@ -7,7 +7,7 @@ tags: "企业网络"
 author:
   nick: 袁苏东
   link: https://github.com/yuansudong
-typora-root-url: images
+typora-root-url: network-deploy-git
 ---
 
 
@@ -15,13 +15,13 @@ typora-root-url: images
 
 
 
-[企业网络之局域网安全HTTPS](https://yuansudong.gitee.io/2021/network-deploy-https/index.html)
+[企业网络之局域网安全HTTPS](https://www.yuansudong.top/2021/network-deploy-https/index.html)
 
-[企业网络之部署DOCKER](https://yuansudong.gitee.io/2021/network-deploy-docker/index.html)
+[企业网络之部署DOCKER](https://www.yuansudong.top/2021/network-deploy-docker/index.html)
 
-[企业网络之部署DNS服务](https://yuansudong.gitee.io/2021/network-deploy-dns/index.html)
+[企业网络之部署DNS服务](https://www.yuansudong.top/2021/network-deploy-dns/index.html)
 
-[企业网络之部署NGINX](https://yuansudong.gitee.io/2021/network-deploy-nginx/index.html)
+[企业网络之部署NGINX](https://www.yuansudong.top/2021/network-deploy-nginx/index.html)
 
 
 
@@ -143,9 +143,7 @@ systemctl reload nginx
 #### 04.打开浏览器配置GOGS
 
 
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/Jb5bUNlS7P2lou6qN28VxZcKCdcFEuG3GcJrq6EbWp9YLpEd7GfU1y4JtbzHHlziaUhjU2LJzfM3SvkutDC6Ruw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
+![图片](/acc.png)
 
 
 配置好之后,基本可以使用

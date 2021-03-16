@@ -56,7 +56,7 @@ mermaid:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://yuansudong.gitee.io
+url: https://www.yuansudong.top
 permalink: :year/:title/index.html
 permalink_defaults:
 pretty_urls:
@@ -147,4 +147,4 @@ theme: hexo-theme-skapp
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://gitee.com/yuansudong/yuansudong
+  repo: https://github.com/yuansudong/yuansudong.github.io
