@@ -5,8 +5,8 @@ subtitle: 技术场景之优化敏感词屏蔽
 categories: "技术场景"
 tags: "技术场景"
 author: 
-nick: 袁苏东
-link: https://github.com/yuansudong
+  nick: 袁苏东
+  link: https://github.com/yuansudong
 ---
 
 随着国家对互联网管控的加压,一些涉黄,涉爆,涉政的相关词条不允许在网络上传播.

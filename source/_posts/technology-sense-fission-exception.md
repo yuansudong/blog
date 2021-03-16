@@ -5,8 +5,8 @@ subtitle: 技术场景之解决hash碰撞
 categories: "技术场景"
 tags: "技术场景"
 author:
-nick: 袁苏东
-link: https://github.com/yuansudong
+  nick: 袁苏东
+  link: https://github.com/yuansudong
 typora-root-url: technology-fission-exception
 ---
 

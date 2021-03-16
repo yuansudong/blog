@@ -5,8 +5,8 @@ subtitle: 技术场景之优化邀请码
 categories: "技术场景"
 tags: "技术场景"
 author: 
-nick: 袁苏东
-link: https://github.com/yuansudong
+  nick: 袁苏东
+  link: https://github.com/yuansudong
 ---
 
 邀请码是识别邀请人的一种方式,常常被用作推广. 而邀请码最便捷的方式就是使用邀请人的UID.

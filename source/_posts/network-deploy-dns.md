@@ -13,7 +13,7 @@ typora-root-url: network-deploy-dns
 
 
 
-```shell
+```bash
 yum -y install bind bind-utils bind-chroot
 ```
 
