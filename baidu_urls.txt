@@ -1,7 +1,0 @@
-https://yuansudong.gitee.io/2021/network-deploy-dns/index.html
-https://yuansudong.gitee.io/2021/network-deploy-https/index.html
-https://yuansudong.gitee.io/2021/network-deploy-nginx/index.html
-https://yuansudong.gitee.io/2021/network-deploy-docker/index.html
-https://yuansudong.gitee.io/2021/network-deploy-git/index.html
-https://yuansudong.gitee.io/2021/technology-sense-network-request-repeated/index.html
-https://yuansudong.gitee.io/2021/technology-sense-sql-order-repeated/index.html

@@ -12,6 +12,7 @@
     "version": "5.4.0"
   },
   "dependencies": {
+    "gitalk": "^1.7.2",
     "hexo": "^5.0.0",
     "hexo-asset-image": "^1.0.0",
     "hexo-autoprefixer": "^2.0.0",
@@ -20,6 +21,7 @@
     "hexo-filter-flowchart": "^1.0.4",
     "hexo-filter-mermaid-diagrams": "^1.0.5",
     "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-baidu-sitemap": "^0.1.9",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-feed": "^3.0.0",
     "hexo-generator-index": "^2.0.0",

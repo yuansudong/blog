@@ -1,1 +1,1 @@
-curl -H 'Content-Type:text/plain' --data-binary @baidu_urls.txt "http://data.zz.baidu.com/urls?site=https://yuansudong.gitee.io&token=PVDj7LjRSYFJWBZt"
+curl -H 'Content-Type:text/plain' --data-binary @urls.txt "http://data.zz.baidu.com/urls?site=https://www.yuansudong.top&token=PVDj7LjRSYFJWBZt"

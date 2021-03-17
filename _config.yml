@@ -148,3 +148,14 @@ theme: hexo-theme-skapp
 deploy:
   type: git
   repo: https://github.com/yuansudong/yuansudong.github.io
+menu:
+  home: /
+  archive: /archives
+
+gitTalk:
+  clientId: "34222a2743dd7e78a990"
+  clientSecret: "ebb25f6222093578d670ec876a067a0601376d96"
+  repo: "yuansudong.github.io"
+  owner: "yuansudong"
+  admin:
+    - "yuansudong"
